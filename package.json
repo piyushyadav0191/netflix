@@ -46,7 +46,8 @@
     ]
   },
   "devDependencies": {
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "react-thanos": "^2.0.0"
   },
   "description": "- **Netflix Clone made with React, Redux and Firebase**",
   "main": "index.js",
